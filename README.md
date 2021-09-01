@@ -4,7 +4,7 @@ From 404
 Essentially, use her image:
 
 <p align="center">
-  <img src="./data.jpeg" alt="Mrs Lee"/>
+  <img src="./Mrs Lee.jpeg" alt="Mrs Lee"/>
 </p>
 
 And apply multiple filters, EDA stuff everything on it.
